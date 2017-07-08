@@ -19,7 +19,7 @@ Proper Rebuild https://dsa.cs.tsinghua.edu.cn/oj/problem.shtml?id=1146
 TSP https://dsa.cs.tsinghua.edu.cn/oj/problem.shtml?id=1147
 
 
-Programming_Assignment-3
+Programming-Assignment-3
 
 Broadcast https://dsa.cs.tsinghua.edu.cn/oj/problem.shtml?id=1148
 
